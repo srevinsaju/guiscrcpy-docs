@@ -11,3 +11,5 @@ github_username: srevinsaju
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
